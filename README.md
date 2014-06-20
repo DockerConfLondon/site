@@ -1,4 +1,4 @@
-Docker Conf London site
+Docker London Community Conference.
 ====
 
 ## Deploying

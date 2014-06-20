@@ -1,4 +1,4 @@
-name: DockerConf London
+name: Docker London Community Conference
 markdown: redcarpet
 pygments: true
 permalink: /talks/:title
